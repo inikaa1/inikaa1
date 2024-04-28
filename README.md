@@ -22,7 +22,7 @@ Check out my Soup Shop website below!
 
 [![Github Repo](https://github-readme-stats.vercel.app/api/pin/?username=inikaa1&repo=SoupShop)](https://github.com/anuraghazra/github-readme-stats)
 
-___
+_____________________________________________________________________________________________________________________________________
 ### About me
 I'm a third year software engineering student, currently living in Sydney. I took up software engineering because I want to create projects that people are able to enjoy and interact with. 
 
