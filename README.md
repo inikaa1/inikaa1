@@ -30,4 +30,4 @@ Besides tech, I love reading, food and exploring new cultures and places. I pass
 
 ___
 ### How to reach me
-<a href="mailto:YourEmail@gmail.com">![inika10m@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<https://www.linkedin.com/in/inika-anand-804b51218/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:inika10m@gmail.com">![inika10m@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<https://www.linkedin.com/in/inika-anand-804b51218/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
