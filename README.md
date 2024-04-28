@@ -19,6 +19,7 @@ ___
 - API Integration
 
 Check out my Soup Shop website below!
+
 [![Github Repo](https://github-readme-stats.vercel.app/api/pin/?username=inikaa1&repo=SoupShop)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
