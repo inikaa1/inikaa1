@@ -4,7 +4,8 @@
 ___
 I'm Inika Anand!
 
-**Currently:** Studying a Bachelor of Software Engineering Honors at the University of Sydney. 
+**Currently:** Studying a Bachelor of Software Engineering Honors at the University of Sydney.
+
 **Previously:** Worked with KBZ Bank Myanamar as a software engineering intern.
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2324292e&qColor=%23FFFFFF" alt="Jokes Card" width="100%"/>
