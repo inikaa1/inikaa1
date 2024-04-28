@@ -9,7 +9,7 @@ I'm Inika Anand!
 **Previously:** Worked with KBZ Bank Myanamar as a software engineering intern.
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2324292e&qColor=%23FFFFFF" alt="Jokes Card" width="100%"/>
-___
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inikaa1&layout=normal&card_width=1000&exclude_repo=R-StatisticReport)
 
 ### Currently Working on
