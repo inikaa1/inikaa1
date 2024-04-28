@@ -9,7 +9,6 @@ I'm Inika Anand!
 **Previously:** Worked with KBZ Bank Myanamar as a software engineering intern.
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2324292e&qColor=%23FFFFFF" alt="Jokes Card" width="100%"/>
-
 ___
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inikaa1&layout=normal&card_width=1000&exclude_repo=R-StatisticReport)
 
@@ -30,4 +29,4 @@ Besides tech, I love reading, food and exploring new cultures and places. I pass
 
 ___
 ### How to reach me
-<a href="mailto:inika10m@gmail.com">![inika10m@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<https://www.linkedin.com/in/inika-anand-804b51218/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:inika10m@gmail.com">![inika10m@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/inika-anand-804b51218">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
