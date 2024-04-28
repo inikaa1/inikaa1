@@ -1,4 +1,4 @@
-<img src="[https://readme-jokes.vercel.app/api?hideBorder&bgColor=%2324292e&qColor=%23FFFFFF](https://github.com/inikaa1/inikaa1/blob/ed2c7fcafb15f4682395087517cec794b40455f4/Purple%20Aquamarine%20Art%20Pixel%20Art%20Discord%20Profile%20Banner.png?raw=true)" alt="Jokes Card" width="100%"/>
+<img src="Purple Aquamarine Art Pixel Art Discord Profile Banner.png" alt="Jokes Card" width="100%"/>
 
 # Hi 👋
 ___
